@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[76525,["/andre_budine_corretor/_next/static/chunks/02l2spbzoee~m.js","/andre_budine_corretor/_next/static/chunks/0d3shmwh5_nmn.js"],"Button"]
+3:I[97367,["/andre_budine_corretor/_next/static/chunks/02l2spbzoee~m.js","/andre_budine_corretor/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"min-h-[80vh] flex flex-col items-center justify-center text-center px-6 bg-[var(--color-navy-900)]","children":[["$","p",null,{"className":"font-serif text-[var(--color-gold-500)] text-7xl md:text-9xl","children":"404"}],["$","h1",null,{"className":"font-serif text-white text-3xl md:text-5xl mt-4 mb-6","children":"Página não encontrada"}],["$","p",null,{"className":"text-white/70 max-w-md mb-10","children":"O imóvel ou página que você procura não está disponível. Que tal voltar para a home?"}],["$","$L2",null,{"href":"/","children":"Ir para o início"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Btu0wQG52SGygFWgrfuH8"}
+5:null
